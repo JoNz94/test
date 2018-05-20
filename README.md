@@ -1,6 +1,4 @@
-# Test
-
-## change Windows 10 setting by register editor
+# Change Windows 10 Setting
 
 * font.reg
     - change default font to `Noto San CJK TC`
